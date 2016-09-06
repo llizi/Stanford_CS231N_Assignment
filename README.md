@@ -1,1 +1,2 @@
-# Stanford_CS231N_Assignment
+# Stanford CS231N Assignment
+[CS231N page](http://cs231n.github.io/)
